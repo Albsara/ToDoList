@@ -1,4 +1,7 @@
+# Python To-Do List Application
+This is a simple Python application that allows you to manage your to-do list. You can add tasks, mark them as completed, view the list, and delete tasks as needed.
 
+Why python?:
 
 1. **Easy to Learn:** Python has a simple and intuitive syntax that makes it easy for beginners to grasp.
 
